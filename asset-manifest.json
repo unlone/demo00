@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/unlone/demo00/static/css/main.c135ba77.css",
-    "main.js": "/unlone/demo00/static/js/main.893b3b2e.js",
-    "static/js/453.00698185.chunk.js": "/unlone/demo00/static/js/453.00698185.chunk.js",
-    "static/media/SourceHanSansSC-Bold.otf": "/unlone/demo00/static/media/SourceHanSansSC-Bold.fcb688eb60d2a2d55cd1.otf",
-    "static/media/SourceHanSansSC-Medium.otf": "/unlone/demo00/static/media/SourceHanSansSC-Medium.8d4d1a546d6ef4096d8e.otf",
-    "static/media/SourceHanSansSC-Regular.otf": "/unlone/demo00/static/media/SourceHanSansSC-Regular.9e7a10965dd54b1340c8.otf",
-    "index.html": "/unlone/demo00/index.html",
-    "main.c135ba77.css.map": "/unlone/demo00/static/css/main.c135ba77.css.map",
-    "main.893b3b2e.js.map": "/unlone/demo00/static/js/main.893b3b2e.js.map",
-    "453.00698185.chunk.js.map": "/unlone/demo00/static/js/453.00698185.chunk.js.map"
+    "main.css": "/demo00/static/css/main.6ec8722d.css",
+    "main.js": "/demo00/static/js/main.7ca9387e.js",
+    "static/js/453.00698185.chunk.js": "/demo00/static/js/453.00698185.chunk.js",
+    "static/media/SourceHanSansSC-Bold.otf": "/demo00/static/media/SourceHanSansSC-Bold.fcb688eb60d2a2d55cd1.otf",
+    "static/media/SourceHanSansSC-Medium.otf": "/demo00/static/media/SourceHanSansSC-Medium.8d4d1a546d6ef4096d8e.otf",
+    "static/media/SourceHanSansSC-Regular.otf": "/demo00/static/media/SourceHanSansSC-Regular.9e7a10965dd54b1340c8.otf",
+    "index.html": "/demo00/index.html",
+    "main.6ec8722d.css.map": "/demo00/static/css/main.6ec8722d.css.map",
+    "main.7ca9387e.js.map": "/demo00/static/js/main.7ca9387e.js.map",
+    "453.00698185.chunk.js.map": "/demo00/static/js/453.00698185.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c135ba77.css",
-    "static/js/main.893b3b2e.js"
+    "static/css/main.6ec8722d.css",
+    "static/js/main.7ca9387e.js"
   ]
 }
